@@ -986,6 +986,7 @@
     "jsonwebtoken": "^9.0.2",
     "jsts": "^1.6.2",
     "kea": "^2.6.0",
+    "kibana": "https://github.com/stiltz/kibana#rf_con",
     "langchain": "^0.0.186",
     "langsmith": "^0.0.48",
     "launchdarkly-js-client-sdk": "^3.1.4",
